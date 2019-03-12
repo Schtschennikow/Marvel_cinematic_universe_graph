@@ -1,0 +1,1406 @@
+Source,Type,Target,Weight
+Iron Man ,Undirected,Pepper Potts,7
+Iron Man ,Undirected,Vision ,7
+Iron Man ,Undirected,Black Widow ,6
+Iron Man ,Undirected,War Machine ,6
+Captain America ,Undirected,Black Widow ,6
+Iron Man ,Undirected,Nick Fury,5
+Nick Fury,Undirected,Vision ,5
+Nick Fury,Undirected,Black Widow ,5
+Vision ,Undirected,Black Widow ,5
+Vision ,Undirected,Pepper Potts,5
+Vision ,Undirected,War Machine ,5
+Black Widow ,Undirected,War Machine ,5
+Iron Man ,Undirected,Captain America ,5
+Iron Man ,Undirected,The Hulk ,5
+Thor,Undirected,The Hulk ,5
+Thor,Undirected,Heimdall,5
+Thor,Undirected,Loki,5
+Nick Fury,Undirected,Captain America ,5
+Iron Man ,Undirected,Happy Hogan,4
+Iron Man ,Undirected,Spider-Man ,4
+Pepper Potts,Undirected,Happy Hogan,4
+Nick Fury,Undirected,Pepper Potts,4
+Black Widow ,Undirected,Pepper Potts,4
+Pepper Potts,Undirected,War Machine ,4
+Rocket Raccoon,Undirected,Nebula,4
+Iron Man ,Undirected,Hawkeye ,4
+Vision ,Undirected,Captain America ,4
+Captain America ,Undirected,War Machine ,4
+Captain America ,Undirected,The Winter Soldier ,4
+Captain America ,Undirected,Falcon ,4
+Captain America ,Undirected,Hawkeye ,4
+Black Widow ,Undirected,Falcon ,4
+Black Widow ,Undirected,Hawkeye ,4
+Iron Man ,Undirected,Thor,4
+Captain America ,Undirected,Thor,4
+Captain America ,Undirected,The Hulk ,4
+Thor,Undirected,Black Widow ,4
+Thor,Undirected,Hawkeye ,4
+Black Widow ,Undirected,The Hulk ,4
+Pepper Potts,Undirected,The Hulk ,4
+War Machine ,Undirected,The Hulk ,4
+Heimdall,Undirected,Loki,4
+Nick Fury,Undirected,Thor,4
+Nick Fury,Undirected,Agent Maria Hill,4
+Vision ,Undirected,The Hulk ,4
+Captain America ,Undirected,Agent Maria Hill,4
+Thor,Undirected,Dr. Erik Selvig,4
+Black Widow ,Undirected,Agent Maria Hill,4
+Pepper Potts,Undirected,Spider-Man ,3
+Spider-Man ,Undirected,Ned,3
+Spider-Man ,Undirected,Aunt May,3
+Nick Fury,Undirected,War Machine ,3
+Vision ,Undirected,Happy Hogan,3
+Drax the Destroyer,Undirected,Rocket Raccoon,3
+Drax the Destroyer,Undirected,Groot,3
+Drax the Destroyer,Undirected,Nebula,3
+Drax the Destroyer,Undirected,Kraglin ,3
+Drax the Destroyer,Undirected,Star Lord ,3
+Drax the Destroyer,Undirected,Gamora,3
+Thanos,Undirected,Rocket Raccoon,3
+Thanos,Undirected,Nebula,3
+Rocket Raccoon,Undirected,Groot,3
+Rocket Raccoon,Undirected,Kraglin ,3
+Rocket Raccoon,Undirected,Star Lord ,3
+Rocket Raccoon,Undirected,Gamora,3
+Groot,Undirected,Nebula,3
+Groot,Undirected,Kraglin ,3
+Groot,Undirected,Star Lord ,3
+Groot,Undirected,Gamora,3
+Nebula,Undirected,Kraglin ,3
+Nebula,Undirected,Star Lord ,3
+Nebula,Undirected,Gamora,3
+Kraglin ,Undirected,Star Lord ,3
+Kraglin ,Undirected,Gamora,3
+Star Lord ,Undirected,Gamora,3
+Black Panther ,Undirected,Ayo,3
+M'Baku,Undirected,Okoye,3
+Iron Man ,Undirected,Falcon ,3
+Iron Man ,Undirected,Scarlet Witch ,3
+Vision ,Undirected,Falcon ,3
+Vision ,Undirected,Hawkeye ,3
+Vision ,Undirected,Scarlet Witch ,3
+Captain America ,Undirected,Spider-Man ,3
+Captain America ,Undirected,Scarlet Witch ,3
+Black Widow ,Undirected,The Winter Soldier ,3
+Black Widow ,Undirected,Spider-Man ,3
+Black Widow ,Undirected,Scarlet Witch ,3
+War Machine ,Undirected,Falcon ,3
+War Machine ,Undirected,Hawkeye ,3
+War Machine ,Undirected,Spider-Man ,3
+War Machine ,Undirected,Scarlet Witch ,3
+The Winter Soldier ,Undirected,Falcon ,3
+Falcon ,Undirected,Scarlet Witch ,3
+The Winter Soldier ,Undirected,Agent Peggy Carter,3
+Iron Man ,Undirected,Thanos,3
+Captain America ,Undirected,Pepper Potts,3
+Captain America ,Undirected,Thanos,3
+Thor,Undirected,Pepper Potts,3
+Thor,Undirected,War Machine ,3
+Thor,Undirected,Thanos,3
+Black Widow ,Undirected,Thanos,3
+War Machine ,Undirected,Thanos,3
+The Hulk ,Undirected,Hawkeye ,3
+The Hulk ,Undirected,Thanos,3
+Thor,Undirected,Hogun,3
+Thor,Undirected,Odin,3
+Thor,Undirected,Volstagg,3
+Heimdall,Undirected,The Hulk ,3
+Heimdall,Undirected,Hogun,3
+Heimdall,Undirected,Odin,3
+Heimdall,Undirected,Volstagg,3
+Loki,Undirected,The Hulk ,3
+Loki,Undirected,Hogun,3
+Loki,Undirected,Odin,3
+Loki,Undirected,Volstagg,3
+Hogun,Undirected,Odin,3
+Hogun,Undirected,Volstagg,3
+Odin,Undirected,Volstagg,3
+Iron Man ,Undirected,Agent Maria Hill,3
+Nick Fury,Undirected,Loki,3
+Nick Fury,Undirected,The Hulk ,3
+Nick Fury,Undirected,Dr. Erik Selvig,3
+Nick Fury,Undirected,Hawkeye ,3
+Vision ,Undirected,Thor,3
+Vision ,Undirected,Agent Maria Hill,3
+Thor,Undirected,Agent Maria Hill,3
+Loki,Undirected,Dr. Erik Selvig,3
+The Hulk ,Undirected,Agent Maria Hill,3
+Dr. Erik Selvig,Undirected,Hawkeye ,3
+Nick Fury,Undirected,Heimdall,3
+Nick Fury,Undirected,The Winter Soldier ,3
+Nick Fury,Undirected,Falcon ,3
+Falcon ,Undirected,Agent Maria Hill,3
+Heimdall,Undirected,Dr. Erik Selvig,3
+Nick Fury,Undirected,Agent Peggy Carter,3
+Captain America ,Undirected,Agent Peggy Carter,3
+Iron Man ,Undirected,Ned,2
+Iron Man ,Undirected,Aunt May,2
+Pepper Potts,Undirected,Ned,2
+Ned,Undirected,Aunt May,2
+Iron Man ,Undirected,Howard Stark,2
+Iron Man ,Undirected,Christine Everhart,2
+Nick Fury,Undirected,Happy Hogan,2
+Nick Fury,Undirected,Christine Everhart,2
+Nick Fury,Undirected,Senator Stern,2
+Vision ,Undirected,Howard Stark,2
+Vision ,Undirected,Christine Everhart,2
+Black Widow ,Undirected,Howard Stark,2
+Black Widow ,Undirected,Senator Stern,2
+Pepper Potts,Undirected,Christine Everhart,2
+War Machine ,Undirected,Happy Hogan,2
+War Machine ,Undirected,Howard Stark,2
+Happy Hogan,Undirected,Christine Everhart,2
+Drax the Destroyer,Undirected,Thanos,2
+Drax the Destroyer,Undirected,The Collector,2
+Drax the Destroyer,Undirected,Yondu Udonta,2
+Thanos,Undirected,Groot,2
+Thanos,Undirected,Kraglin ,2
+Thanos,Undirected,Star Lord ,2
+Thanos,Undirected,Gamora,2
+Thanos,Undirected,The Collector,2
+Rocket Raccoon,Undirected,The Collector,2
+Rocket Raccoon,Undirected,Yondu Udonta,2
+Groot,Undirected,The Collector,2
+Groot,Undirected,Yondu Udonta,2
+Nebula,Undirected,The Collector,2
+Nebula,Undirected,Yondu Udonta,2
+Kraglin ,Undirected,The Collector,2
+Kraglin ,Undirected,Yondu Udonta,2
+Star Lord ,Undirected,The Collector,2
+Star Lord ,Undirected,Yondu Udonta,2
+Gamora,Undirected,The Collector,2
+Gamora,Undirected,Yondu Udonta,2
+Black Panther ,Undirected,M'Baku,2
+Black Panther ,Undirected,Everett Ross,2
+Black Panther ,Undirected,Okoye,2
+Black Panther ,Undirected,King T'Chaka,2
+Black Panther ,Undirected,Shuri,2
+Ayo,Undirected,M'Baku,2
+Ayo,Undirected,Everett Ross,2
+Ayo,Undirected,Okoye,2
+Ayo,Undirected,King T'Chaka,2
+Ayo,Undirected,Shuri,2
+M'Baku,Undirected,Shuri,2
+Everett Ross,Undirected,King T'Chaka,2
+Okoye,Undirected,Shuri,2
+Iron Man ,Undirected,The Winter Soldier ,2
+Iron Man ,Undirected,Black Panther ,2
+Iron Man ,Undirected,Thaddeus Ross,2
+Iron Man ,Undirected,Ayo,2
+Iron Man ,Undirected,Scott Lang,2
+Iron Man ,Undirected,Councilwoman Hawley,2
+Vision ,Undirected,The Winter Soldier ,2
+Vision ,Undirected,Black Panther ,2
+Vision ,Undirected,Spider-Man ,2
+Vision ,Undirected,Thaddeus Ross,2
+Vision ,Undirected,Ayo,2
+Vision ,Undirected,Councilwoman Hawley,2
+Captain America ,Undirected,Black Panther ,2
+Captain America ,Undirected,Thaddeus Ross,2
+Captain America ,Undirected,Ayo,2
+Captain America ,Undirected,Scott Lang,2
+Captain America ,Undirected,Councilwoman Hawley,2
+Captain America ,Undirected,Crossbones ,2
+Captain America ,Undirected,Agent 13 ,2
+Black Widow ,Undirected,Black Panther ,2
+Black Widow ,Undirected,Thaddeus Ross,2
+Black Widow ,Undirected,Ayo,2
+Black Widow ,Undirected,Scott Lang,2
+Black Widow ,Undirected,Councilwoman Hawley,2
+Black Widow ,Undirected,Crossbones ,2
+Black Widow ,Undirected,Agent 13 ,2
+War Machine ,Undirected,The Winter Soldier ,2
+War Machine ,Undirected,Black Panther ,2
+War Machine ,Undirected,Thaddeus Ross,2
+War Machine ,Undirected,Ayo,2
+War Machine ,Undirected,Scott Lang,2
+The Winter Soldier ,Undirected,Black Panther ,2
+The Winter Soldier ,Undirected,Spider-Man ,2
+The Winter Soldier ,Undirected,Thaddeus Ross,2
+The Winter Soldier ,Undirected,Ayo,2
+The Winter Soldier ,Undirected,Scarlet Witch ,2
+The Winter Soldier ,Undirected,Scott Lang,2
+The Winter Soldier ,Undirected,Howard Stark,2
+The Winter Soldier ,Undirected,Crossbones ,2
+The Winter Soldier ,Undirected,Agent 13 ,2
+Falcon ,Undirected,Hawkeye ,2
+Falcon ,Undirected,Black Panther ,2
+Falcon ,Undirected,Spider-Man ,2
+Falcon ,Undirected,Thaddeus Ross,2
+Falcon ,Undirected,Ayo,2
+Falcon ,Undirected,Crossbones ,2
+Falcon ,Undirected,Agent 13 ,2
+Hawkeye ,Undirected,Spider-Man ,2
+Hawkeye ,Undirected,Scarlet Witch ,2
+Hawkeye ,Undirected,Scott Lang,2
+Hawkeye ,Undirected,Councilwoman Hawley,2
+Black Panther ,Undirected,Spider-Man ,2
+Black Panther ,Undirected,Thaddeus Ross,2
+Black Panther ,Undirected,Scarlet Witch ,2
+Spider-Man ,Undirected,Thaddeus Ross,2
+Spider-Man ,Undirected,Ayo,2
+Spider-Man ,Undirected,Scarlet Witch ,2
+Spider-Man ,Undirected,Scott Lang,2
+Thaddeus Ross,Undirected,Ayo,2
+Thaddeus Ross,Undirected,Scarlet Witch ,2
+Ayo,Undirected,Scarlet Witch ,2
+Scott Lang,Undirected,Howard Stark,2
+Crossbones ,Undirected,Agent 13 ,2
+Scott Lang,Undirected,Paxton,2
+Scott Lang,Undirected,Kurt,2
+Scott Lang,Undirected,Hank Pym,2
+Scott Lang,Undirected,Maggie,2
+Scott Lang,Undirected,The Wasp ,2
+Scott Lang,Undirected,Luis,2
+Scott Lang,Undirected,Cassie Lang,2
+Scott Lang,Undirected,Dave,2
+Paxton,Undirected,Kurt,2
+Paxton,Undirected,Hank Pym,2
+Paxton,Undirected,Maggie,2
+Paxton,Undirected,The Wasp ,2
+Paxton,Undirected,Luis,2
+Paxton,Undirected,Cassie Lang,2
+Paxton,Undirected,Dave,2
+Kurt,Undirected,Hank Pym,2
+Kurt,Undirected,Maggie,2
+Kurt,Undirected,The Wasp ,2
+Kurt,Undirected,Luis,2
+Kurt,Undirected,Cassie Lang,2
+Kurt,Undirected,Dave,2
+Hank Pym,Undirected,Maggie,2
+Hank Pym,Undirected,The Wasp ,2
+Hank Pym,Undirected,Luis,2
+Hank Pym,Undirected,Cassie Lang,2
+Hank Pym,Undirected,Dave,2
+Maggie,Undirected,The Wasp ,2
+Maggie,Undirected,Luis,2
+Maggie,Undirected,Cassie Lang,2
+Maggie,Undirected,Dave,2
+The Wasp ,Undirected,Luis,2
+The Wasp ,Undirected,Cassie Lang,2
+The Wasp ,Undirected,Dave,2
+Luis,Undirected,Cassie Lang,2
+Luis,Undirected,Dave,2
+Cassie Lang,Undirected,Dave,2
+Drax the Destroyer,Undirected,Mantis,2
+Rocket Raccoon,Undirected,Mantis,2
+Groot,Undirected,Mantis,2
+Nebula,Undirected,Mantis,2
+Kraglin ,Undirected,Mantis,2
+Star Lord ,Undirected,Mantis,2
+Gamora,Undirected,Mantis,2
+Iron Man ,Undirected,Rocket Raccoon,2
+Iron Man ,Undirected,Nebula,2
+Iron Man ,Undirected,M'Baku,2
+Iron Man ,Undirected,Okoye,2
+Captain America ,Undirected,Rocket Raccoon,2
+Captain America ,Undirected,Nebula,2
+Captain America ,Undirected,M'Baku,2
+Captain America ,Undirected,Okoye,2
+Thor,Undirected,Rocket Raccoon,2
+Thor,Undirected,Nebula,2
+Thor,Undirected,Spider-Man ,2
+Thor,Undirected,M'Baku,2
+Thor,Undirected,Okoye,2
+Black Widow ,Undirected,Rocket Raccoon,2
+Black Widow ,Undirected,Nebula,2
+Black Widow ,Undirected,M'Baku,2
+Black Widow ,Undirected,Okoye,2
+Pepper Potts,Undirected,Hawkeye ,2
+Pepper Potts,Undirected,Thanos,2
+Pepper Potts,Undirected,Rocket Raccoon,2
+Pepper Potts,Undirected,Nebula,2
+Pepper Potts,Undirected,M'Baku,2
+Pepper Potts,Undirected,Okoye,2
+War Machine ,Undirected,Rocket Raccoon,2
+War Machine ,Undirected,Nebula,2
+War Machine ,Undirected,M'Baku,2
+War Machine ,Undirected,Okoye,2
+The Hulk ,Undirected,Rocket Raccoon,2
+The Hulk ,Undirected,Nebula,2
+The Hulk ,Undirected,Spider-Man ,2
+The Hulk ,Undirected,M'Baku,2
+The Hulk ,Undirected,Okoye,2
+Hawkeye ,Undirected,Thanos,2
+Thanos,Undirected,Spider-Man ,2
+Thanos,Undirected,M'Baku,2
+Thanos,Undirected,Okoye,2
+Rocket Raccoon,Undirected,Spider-Man ,2
+Rocket Raccoon,Undirected,M'Baku,2
+Rocket Raccoon,Undirected,Okoye,2
+Nebula,Undirected,Spider-Man ,2
+Nebula,Undirected,M'Baku,2
+Nebula,Undirected,Okoye,2
+Spider-Man ,Undirected,M'Baku,2
+Spider-Man ,Undirected,Okoye,2
+Thor,Undirected,Dr. Strange ,2
+Thor,Undirected,Fandral,2
+Heimdall,Undirected,Dr. Strange ,2
+Heimdall,Undirected,Fandral,2
+Loki,Undirected,Dr. Strange ,2
+Loki,Undirected,Fandral,2
+The Hulk ,Undirected,Dr. Strange ,2
+Hogun,Undirected,Fandral,2
+Odin,Undirected,Fandral,2
+Volstagg,Undirected,Fandral,2
+The Hulk ,Undirected,Thaddeus Ross,2
+Iron Man ,Undirected,Loki,2
+Iron Man ,Undirected,Dr. Erik Selvig,2
+Vision ,Undirected,Loki,2
+Vision ,Undirected,Dr. Erik Selvig,2
+Captain America ,Undirected,Loki,2
+Captain America ,Undirected,Dr. Erik Selvig,2
+Black Widow ,Undirected,Loki,2
+Black Widow ,Undirected,Dr. Erik Selvig,2
+Pepper Potts,Undirected,Loki,2
+Pepper Potts,Undirected,Agent Maria Hill,2
+Loki,Undirected,Hawkeye ,2
+Loki,Undirected,Agent Maria Hill,2
+The Hulk ,Undirected,Dr. Erik Selvig,2
+Dr. Erik Selvig,Undirected,Agent Maria Hill,2
+Hawkeye ,Undirected,Agent Maria Hill,2
+Iron Man ,Undirected,Heimdall,2
+Nick Fury,Undirected,Thanos,2
+Nick Fury,Undirected,Scarlet Witch ,2
+Vision ,Undirected,Heimdall,2
+Vision ,Undirected,Thanos,2
+Captain America ,Undirected,Heimdall,2
+Thor,Undirected,Falcon ,2
+Thor,Undirected,Scarlet Witch ,2
+Black Widow ,Undirected,Heimdall,2
+War Machine ,Undirected,Heimdall,2
+War Machine ,Undirected,Agent Maria Hill,2
+Heimdall,Undirected,Falcon ,2
+Heimdall,Undirected,Agent Maria Hill,2
+Heimdall,Undirected,Thanos,2
+Heimdall,Undirected,Scarlet Witch ,2
+The Hulk ,Undirected,Falcon ,2
+The Hulk ,Undirected,Scarlet Witch ,2
+The Winter Soldier ,Undirected,Agent Maria Hill,2
+Falcon ,Undirected,Thanos,2
+Agent Maria Hill,Undirected,Thanos,2
+Agent Maria Hill,Undirected,Scarlet Witch ,2
+Thanos,Undirected,Scarlet Witch ,2
+Thor,Undirected,Sif,2
+Thor,Undirected,Darcy Lewis,2
+Thor,Undirected,Jane Foster,2
+Thor,Undirected,Frigga,2
+Heimdall,Undirected,Sif,2
+Heimdall,Undirected,Darcy Lewis,2
+Heimdall,Undirected,Jane Foster,2
+Heimdall,Undirected,Frigga,2
+Loki,Undirected,Sif,2
+Loki,Undirected,Darcy Lewis,2
+Loki,Undirected,Jane Foster,2
+Loki,Undirected,Frigga,2
+Dr. Erik Selvig,Undirected,Hogun,2
+Dr. Erik Selvig,Undirected,Odin,2
+Dr. Erik Selvig,Undirected,Volstagg,2
+Dr. Erik Selvig,Undirected,Sif,2
+Dr. Erik Selvig,Undirected,Darcy Lewis,2
+Dr. Erik Selvig,Undirected,Jane Foster,2
+Dr. Erik Selvig,Undirected,Frigga,2
+Hogun,Undirected,Sif,2
+Hogun,Undirected,Darcy Lewis,2
+Hogun,Undirected,Jane Foster,2
+Hogun,Undirected,Frigga,2
+Odin,Undirected,Sif,2
+Odin,Undirected,Darcy Lewis,2
+Odin,Undirected,Jane Foster,2
+Odin,Undirected,Frigga,2
+Volstagg,Undirected,Sif,2
+Volstagg,Undirected,Darcy Lewis,2
+Volstagg,Undirected,Jane Foster,2
+Volstagg,Undirected,Frigga,2
+Sif,Undirected,Darcy Lewis,2
+Sif,Undirected,Jane Foster,2
+Sif,Undirected,Frigga,2
+Darcy Lewis,Undirected,Jane Foster,2
+Darcy Lewis,Undirected,Frigga,2
+Jane Foster,Undirected,Frigga,2
+Heimdall,Undirected,Hawkeye ,2
+Nick Fury,Undirected,Arnim Zola,2
+Captain America ,Undirected,Arnim Zola,2
+The Winter Soldier ,Undirected,Arnim Zola,2
+Agent Peggy Carter,Undirected,Arnim Zola,2
+Black Widow ,Undirected,Agent Peggy Carter,2
+Agent Peggy Carter,Undirected,Falcon ,2
+Agent Peggy Carter,Undirected,Agent Maria Hill,2
+Iron Man ,Undirected,Anne Marie Hoag,1
+Iron Man ,Undirected,Aaron Davis,1
+Iron Man ,Undirected,Vulture ,1
+Pepper Potts,Undirected,Aunt May,1
+Pepper Potts,Undirected,Anne Marie Hoag,1
+Pepper Potts,Undirected,Aaron Davis,1
+Pepper Potts,Undirected,Vulture ,1
+Happy Hogan,Undirected,Spider-Man ,1
+Happy Hogan,Undirected,Ned,1
+Happy Hogan,Undirected,Aunt May,1
+Happy Hogan,Undirected,Anne Marie Hoag,1
+Happy Hogan,Undirected,Aaron Davis,1
+Happy Hogan,Undirected,Vulture ,1
+Spider-Man ,Undirected,Anne Marie Hoag,1
+Spider-Man ,Undirected,Aaron Davis,1
+Spider-Man ,Undirected,Vulture ,1
+Ned,Undirected,Anne Marie Hoag,1
+Ned,Undirected,Aaron Davis,1
+Ned,Undirected,Vulture ,1
+Aunt May,Undirected,Anne Marie Hoag,1
+Aunt May,Undirected,Aaron Davis,1
+Aunt May,Undirected,Vulture ,1
+Anne Marie Hoag,Undirected,Aaron Davis,1
+Anne Marie Hoag,Undirected,Vulture ,1
+Aaron Davis,Undirected,Vulture ,1
+Iron Man ,Undirected,Senator Stern,1
+Nick Fury,Undirected,Howard Stark,1
+Vision ,Undirected,Senator Stern,1
+Black Widow ,Undirected,Happy Hogan,1
+Black Widow ,Undirected,Christine Everhart,1
+Pepper Potts,Undirected,Howard Stark,1
+Pepper Potts,Undirected,Senator Stern,1
+War Machine ,Undirected,Christine Everhart,1
+War Machine ,Undirected,Senator Stern,1
+Happy Hogan,Undirected,Howard Stark,1
+Happy Hogan,Undirected,Senator Stern,1
+Howard Stark,Undirected,Christine Everhart,1
+Howard Stark,Undirected,Senator Stern,1
+Christine Everhart,Undirected,Senator Stern,1
+Drax the Destroyer,Undirected,Nova Prime,1
+Drax the Destroyer,Undirected,Korath,1
+Thanos,Undirected,Yondu Udonta,1
+Thanos,Undirected,Nova Prime,1
+Thanos,Undirected,Korath,1
+Rocket Raccoon,Undirected,Nova Prime,1
+Rocket Raccoon,Undirected,Korath,1
+Groot,Undirected,Nova Prime,1
+Groot,Undirected,Korath,1
+Nebula,Undirected,Nova Prime,1
+Nebula,Undirected,Korath,1
+Kraglin ,Undirected,Nova Prime,1
+Kraglin ,Undirected,Korath,1
+Star Lord ,Undirected,Nova Prime,1
+Star Lord ,Undirected,Korath,1
+Gamora,Undirected,Nova Prime,1
+Gamora,Undirected,Korath,1
+The Collector,Undirected,Yondu Udonta,1
+The Collector,Undirected,Nova Prime,1
+The Collector,Undirected,Korath,1
+Yondu Udonta,Undirected,Nova Prime,1
+Yondu Udonta,Undirected,Korath,1
+Nova Prime,Undirected,Korath,1
+Black Panther ,Undirected,Ulysses Klaue,1
+Black Panther ,Undirected,Queen Ramonda,1
+Black Panther ,Undirected,N'Jobu,1
+Black Panther ,Undirected,"Erik ""Killmonger"" Stevens ",1
+Black Panther ,Undirected,W'Kabi,1
+Ayo,Undirected,Ulysses Klaue,1
+Ayo,Undirected,Queen Ramonda,1
+Ayo,Undirected,N'Jobu,1
+Ayo,Undirected,"Erik ""Killmonger"" Stevens ",1
+Ayo,Undirected,W'Kabi,1
+M'Baku,Undirected,Everett Ross,1
+M'Baku,Undirected,King T'Chaka,1
+M'Baku,Undirected,Ulysses Klaue,1
+M'Baku,Undirected,Queen Ramonda,1
+M'Baku,Undirected,N'Jobu,1
+M'Baku,Undirected,"Erik ""Killmonger"" Stevens ",1
+M'Baku,Undirected,W'Kabi,1
+Everett Ross,Undirected,Okoye,1
+Everett Ross,Undirected,Ulysses Klaue,1
+Everett Ross,Undirected,Shuri,1
+Everett Ross,Undirected,Queen Ramonda,1
+Everett Ross,Undirected,N'Jobu,1
+Everett Ross,Undirected,"Erik ""Killmonger"" Stevens ",1
+Everett Ross,Undirected,W'Kabi,1
+Okoye,Undirected,King T'Chaka,1
+Okoye,Undirected,Ulysses Klaue,1
+Okoye,Undirected,Queen Ramonda,1
+Okoye,Undirected,N'Jobu,1
+Okoye,Undirected,"Erik ""Killmonger"" Stevens ",1
+Okoye,Undirected,W'Kabi,1
+King T'Chaka,Undirected,Ulysses Klaue,1
+King T'Chaka,Undirected,Shuri,1
+King T'Chaka,Undirected,Queen Ramonda,1
+King T'Chaka,Undirected,N'Jobu,1
+King T'Chaka,Undirected,"Erik ""Killmonger"" Stevens ",1
+King T'Chaka,Undirected,W'Kabi,1
+Ulysses Klaue,Undirected,Shuri,1
+Ulysses Klaue,Undirected,Queen Ramonda,1
+Ulysses Klaue,Undirected,N'Jobu,1
+Ulysses Klaue,Undirected,"Erik ""Killmonger"" Stevens ",1
+Ulysses Klaue,Undirected,W'Kabi,1
+Shuri,Undirected,Queen Ramonda,1
+Shuri,Undirected,N'Jobu,1
+Shuri,Undirected,"Erik ""Killmonger"" Stevens ",1
+Shuri,Undirected,W'Kabi,1
+Queen Ramonda,Undirected,N'Jobu,1
+Queen Ramonda,Undirected,"Erik ""Killmonger"" Stevens ",1
+Queen Ramonda,Undirected,W'Kabi,1
+N'Jobu,Undirected,"Erik ""Killmonger"" Stevens ",1
+N'Jobu,Undirected,W'Kabi,1
+"Erik ""Killmonger"" Stevens ",Undirected,W'Kabi,1
+Iron Man ,Undirected,Everett Ross,1
+Iron Man ,Undirected,Crossbones ,1
+Iron Man ,Undirected,King T'Chaka,1
+Iron Man ,Undirected,Agent 13 ,1
+Iron Man ,Undirected,Helmut Zemo,1
+Iron Man ,Undirected,Maria Stark,1
+Iron Man ,Undirected,Madame B,1
+Vision ,Undirected,Scott Lang,1
+Vision ,Undirected,Everett Ross,1
+Vision ,Undirected,Crossbones ,1
+Vision ,Undirected,King T'Chaka,1
+Vision ,Undirected,Aunt May,1
+Vision ,Undirected,Agent 13 ,1
+Vision ,Undirected,Helmut Zemo,1
+Vision ,Undirected,Maria Stark,1
+Vision ,Undirected,Madame B,1
+Captain America ,Undirected,Howard Stark,1
+Captain America ,Undirected,Everett Ross,1
+Captain America ,Undirected,King T'Chaka,1
+Captain America ,Undirected,Aunt May,1
+Captain America ,Undirected,Helmut Zemo,1
+Captain America ,Undirected,Maria Stark,1
+Captain America ,Undirected,Madame B,1
+Black Widow ,Undirected,Everett Ross,1
+Black Widow ,Undirected,King T'Chaka,1
+Black Widow ,Undirected,Aunt May,1
+Black Widow ,Undirected,Helmut Zemo,1
+Black Widow ,Undirected,Maria Stark,1
+Black Widow ,Undirected,Madame B,1
+War Machine ,Undirected,Councilwoman Hawley,1
+War Machine ,Undirected,Everett Ross,1
+War Machine ,Undirected,Crossbones ,1
+War Machine ,Undirected,King T'Chaka,1
+War Machine ,Undirected,Aunt May,1
+War Machine ,Undirected,Agent 13 ,1
+War Machine ,Undirected,Helmut Zemo,1
+War Machine ,Undirected,Maria Stark,1
+War Machine ,Undirected,Madame B,1
+The Winter Soldier ,Undirected,Hawkeye ,1
+The Winter Soldier ,Undirected,Councilwoman Hawley,1
+The Winter Soldier ,Undirected,Everett Ross,1
+The Winter Soldier ,Undirected,King T'Chaka,1
+The Winter Soldier ,Undirected,Aunt May,1
+The Winter Soldier ,Undirected,Helmut Zemo,1
+The Winter Soldier ,Undirected,Maria Stark,1
+The Winter Soldier ,Undirected,Madame B,1
+Falcon ,Undirected,Scott Lang,1
+Falcon ,Undirected,Howard Stark,1
+Falcon ,Undirected,Councilwoman Hawley,1
+Falcon ,Undirected,Everett Ross,1
+Falcon ,Undirected,King T'Chaka,1
+Falcon ,Undirected,Aunt May,1
+Falcon ,Undirected,Helmut Zemo,1
+Falcon ,Undirected,Maria Stark,1
+Falcon ,Undirected,Madame B,1
+Hawkeye ,Undirected,Black Panther ,1
+Hawkeye ,Undirected,Thaddeus Ross,1
+Hawkeye ,Undirected,Ayo,1
+Hawkeye ,Undirected,Howard Stark,1
+Hawkeye ,Undirected,Everett Ross,1
+Hawkeye ,Undirected,Crossbones ,1
+Hawkeye ,Undirected,King T'Chaka,1
+Hawkeye ,Undirected,Aunt May,1
+Hawkeye ,Undirected,Agent 13 ,1
+Hawkeye ,Undirected,Helmut Zemo,1
+Hawkeye ,Undirected,Maria Stark,1
+Hawkeye ,Undirected,Madame B,1
+Black Panther ,Undirected,Scott Lang,1
+Black Panther ,Undirected,Howard Stark,1
+Black Panther ,Undirected,Councilwoman Hawley,1
+Black Panther ,Undirected,Crossbones ,1
+Black Panther ,Undirected,Aunt May,1
+Black Panther ,Undirected,Agent 13 ,1
+Black Panther ,Undirected,Helmut Zemo,1
+Black Panther ,Undirected,Maria Stark,1
+Black Panther ,Undirected,Madame B,1
+Spider-Man ,Undirected,Howard Stark,1
+Spider-Man ,Undirected,Councilwoman Hawley,1
+Spider-Man ,Undirected,Everett Ross,1
+Spider-Man ,Undirected,Crossbones ,1
+Spider-Man ,Undirected,King T'Chaka,1
+Spider-Man ,Undirected,Agent 13 ,1
+Spider-Man ,Undirected,Helmut Zemo,1
+Spider-Man ,Undirected,Maria Stark,1
+Spider-Man ,Undirected,Madame B,1
+Thaddeus Ross,Undirected,Scott Lang,1
+Thaddeus Ross,Undirected,Howard Stark,1
+Thaddeus Ross,Undirected,Councilwoman Hawley,1
+Thaddeus Ross,Undirected,Everett Ross,1
+Thaddeus Ross,Undirected,Crossbones ,1
+Thaddeus Ross,Undirected,King T'Chaka,1
+Thaddeus Ross,Undirected,Aunt May,1
+Thaddeus Ross,Undirected,Agent 13 ,1
+Thaddeus Ross,Undirected,Helmut Zemo,1
+Thaddeus Ross,Undirected,Maria Stark,1
+Thaddeus Ross,Undirected,Madame B,1
+Ayo,Undirected,Scott Lang,1
+Ayo,Undirected,Howard Stark,1
+Ayo,Undirected,Councilwoman Hawley,1
+Ayo,Undirected,Crossbones ,1
+Ayo,Undirected,Aunt May,1
+Ayo,Undirected,Agent 13 ,1
+Ayo,Undirected,Helmut Zemo,1
+Ayo,Undirected,Maria Stark,1
+Ayo,Undirected,Madame B,1
+Scarlet Witch ,Undirected,Scott Lang,1
+Scarlet Witch ,Undirected,Howard Stark,1
+Scarlet Witch ,Undirected,Councilwoman Hawley,1
+Scarlet Witch ,Undirected,Everett Ross,1
+Scarlet Witch ,Undirected,Crossbones ,1
+Scarlet Witch ,Undirected,King T'Chaka,1
+Scarlet Witch ,Undirected,Aunt May,1
+Scarlet Witch ,Undirected,Agent 13 ,1
+Scarlet Witch ,Undirected,Helmut Zemo,1
+Scarlet Witch ,Undirected,Maria Stark,1
+Scarlet Witch ,Undirected,Madame B,1
+Scott Lang,Undirected,Councilwoman Hawley,1
+Scott Lang,Undirected,Everett Ross,1
+Scott Lang,Undirected,Crossbones ,1
+Scott Lang,Undirected,King T'Chaka,1
+Scott Lang,Undirected,Aunt May,1
+Scott Lang,Undirected,Agent 13 ,1
+Scott Lang,Undirected,Helmut Zemo,1
+Scott Lang,Undirected,Maria Stark,1
+Scott Lang,Undirected,Madame B,1
+Howard Stark,Undirected,Councilwoman Hawley,1
+Howard Stark,Undirected,Everett Ross,1
+Howard Stark,Undirected,Crossbones ,1
+Howard Stark,Undirected,King T'Chaka,1
+Howard Stark,Undirected,Aunt May,1
+Howard Stark,Undirected,Agent 13 ,1
+Howard Stark,Undirected,Helmut Zemo,1
+Howard Stark,Undirected,Maria Stark,1
+Howard Stark,Undirected,Madame B,1
+Councilwoman Hawley,Undirected,Everett Ross,1
+Councilwoman Hawley,Undirected,Crossbones ,1
+Councilwoman Hawley,Undirected,King T'Chaka,1
+Councilwoman Hawley,Undirected,Aunt May,1
+Councilwoman Hawley,Undirected,Agent 13 ,1
+Councilwoman Hawley,Undirected,Helmut Zemo,1
+Councilwoman Hawley,Undirected,Maria Stark,1
+Councilwoman Hawley,Undirected,Madame B,1
+Everett Ross,Undirected,Crossbones ,1
+Everett Ross,Undirected,Aunt May,1
+Everett Ross,Undirected,Agent 13 ,1
+Everett Ross,Undirected,Helmut Zemo,1
+Everett Ross,Undirected,Maria Stark,1
+Everett Ross,Undirected,Madame B,1
+Crossbones ,Undirected,King T'Chaka,1
+Crossbones ,Undirected,Aunt May,1
+Crossbones ,Undirected,Helmut Zemo,1
+Crossbones ,Undirected,Maria Stark,1
+Crossbones ,Undirected,Madame B,1
+King T'Chaka,Undirected,Aunt May,1
+King T'Chaka,Undirected,Agent 13 ,1
+King T'Chaka,Undirected,Helmut Zemo,1
+King T'Chaka,Undirected,Maria Stark,1
+King T'Chaka,Undirected,Madame B,1
+Aunt May,Undirected,Agent 13 ,1
+Aunt May,Undirected,Helmut Zemo,1
+Aunt May,Undirected,Maria Stark,1
+Aunt May,Undirected,Madame B,1
+Agent 13 ,Undirected,Helmut Zemo,1
+Agent 13 ,Undirected,Maria Stark,1
+Agent 13 ,Undirected,Madame B,1
+Helmut Zemo,Undirected,Maria Stark,1
+Helmut Zemo,Undirected,Madame B,1
+Maria Stark,Undirected,Madame B,1
+The Winter Soldier ,Undirected,Paxton,1
+The Winter Soldier ,Undirected,Kurt,1
+The Winter Soldier ,Undirected,Hank Pym,1
+The Winter Soldier ,Undirected,Maggie,1
+The Winter Soldier ,Undirected,The Wasp ,1
+The Winter Soldier ,Undirected,Luis,1
+The Winter Soldier ,Undirected,Cassie Lang,1
+The Winter Soldier ,Undirected,Dave,1
+The Winter Soldier ,Undirected,Gale,1
+Agent Peggy Carter,Undirected,Scott Lang,1
+Agent Peggy Carter,Undirected,Howard Stark,1
+Agent Peggy Carter,Undirected,Paxton,1
+Agent Peggy Carter,Undirected,Kurt,1
+Agent Peggy Carter,Undirected,Hank Pym,1
+Agent Peggy Carter,Undirected,Maggie,1
+Agent Peggy Carter,Undirected,The Wasp ,1
+Agent Peggy Carter,Undirected,Luis,1
+Agent Peggy Carter,Undirected,Cassie Lang,1
+Agent Peggy Carter,Undirected,Dave,1
+Agent Peggy Carter,Undirected,Gale,1
+Scott Lang,Undirected,Gale,1
+Howard Stark,Undirected,Paxton,1
+Howard Stark,Undirected,Kurt,1
+Howard Stark,Undirected,Hank Pym,1
+Howard Stark,Undirected,Maggie,1
+Howard Stark,Undirected,The Wasp ,1
+Howard Stark,Undirected,Luis,1
+Howard Stark,Undirected,Cassie Lang,1
+Howard Stark,Undirected,Dave,1
+Howard Stark,Undirected,Gale,1
+Paxton,Undirected,Gale,1
+Kurt,Undirected,Gale,1
+Hank Pym,Undirected,Gale,1
+Maggie,Undirected,Gale,1
+The Wasp ,Undirected,Gale,1
+Luis,Undirected,Gale,1
+Cassie Lang,Undirected,Gale,1
+Dave,Undirected,Gale,1
+Drax the Destroyer,Undirected,Ayesha,1
+Rocket Raccoon,Undirected,Ayesha,1
+Groot,Undirected,Ayesha,1
+Nebula,Undirected,Ayesha,1
+Kraglin ,Undirected,Ayesha,1
+Star Lord ,Undirected,Ayesha,1
+Gamora,Undirected,Ayesha,1
+Mantis,Undirected,Yondu Udonta,1
+Mantis,Undirected,Ayesha,1
+Yondu Udonta,Undirected,Ayesha,1
+Thor,Undirected,Scott Lang,1
+Pepper Potts,Undirected,Scott Lang,1
+The Hulk ,Undirected,Scott Lang,1
+Hawkeye ,Undirected,Rocket Raccoon,1
+Hawkeye ,Undirected,Nebula,1
+Hawkeye ,Undirected,M'Baku,1
+Hawkeye ,Undirected,Okoye,1
+Thanos,Undirected,Scott Lang,1
+Rocket Raccoon,Undirected,Scott Lang,1
+Nebula,Undirected,Scott Lang,1
+Scott Lang,Undirected,M'Baku,1
+Scott Lang,Undirected,Okoye,1
+Thor,Undirected,Hela,1
+Thor,Undirected,The Grandmaster,1
+Heimdall,Undirected,Hela,1
+Heimdall,Undirected,The Grandmaster,1
+Loki,Undirected,Hela,1
+Loki,Undirected,The Grandmaster,1
+The Hulk ,Undirected,Hogun,1
+The Hulk ,Undirected,Odin,1
+The Hulk ,Undirected,Volstagg,1
+The Hulk ,Undirected,Fandral,1
+The Hulk ,Undirected,Hela,1
+The Hulk ,Undirected,The Grandmaster,1
+Hogun,Undirected,Dr. Strange ,1
+Hogun,Undirected,Hela,1
+Hogun,Undirected,The Grandmaster,1
+Dr. Strange ,Undirected,Odin,1
+Dr. Strange ,Undirected,Volstagg,1
+Dr. Strange ,Undirected,Fandral,1
+Dr. Strange ,Undirected,Hela,1
+Dr. Strange ,Undirected,The Grandmaster,1
+Odin,Undirected,Hela,1
+Odin,Undirected,The Grandmaster,1
+Volstagg,Undirected,Hela,1
+Volstagg,Undirected,The Grandmaster,1
+Fandral,Undirected,Hela,1
+Fandral,Undirected,The Grandmaster,1
+Hela,Undirected,The Grandmaster,1
+Wong,Undirected,Jonathan Pangborn,1
+Wong,Undirected,Karl Mordo,1
+Jonathan Pangborn,Undirected,Karl Mordo,1
+Nick Fury,Undirected,Councilwoman Hawley,1
+Thor,Undirected,Councilwoman Hawley,1
+Pepper Potts,Undirected,Dr. Erik Selvig,1
+Pepper Potts,Undirected,Councilwoman Hawley,1
+Loki,Undirected,Councilwoman Hawley,1
+The Hulk ,Undirected,Councilwoman Hawley,1
+Dr. Erik Selvig,Undirected,Councilwoman Hawley,1
+Agent Maria Hill,Undirected,Councilwoman Hawley,1
+Iron Man ,Undirected,Maya Hansen,1
+Vision ,Undirected,Maya Hansen,1
+Pepper Potts,Undirected,Maya Hansen,1
+War Machine ,Undirected,Maya Hansen,1
+The Hulk ,Undirected,Happy Hogan,1
+The Hulk ,Undirected,Maya Hansen,1
+Happy Hogan,Undirected,Maya Hansen,1
+Iron Man ,Undirected,Drax the Destroyer,1
+Iron Man ,Undirected,Dr. Strange ,1
+Iron Man ,Undirected,Groot,1
+Iron Man ,Undirected,Kraglin ,1
+Iron Man ,Undirected,Star Lord ,1
+Iron Man ,Undirected,Gamora,1
+Iron Man ,Undirected,The Collector,1
+Iron Man ,Undirected,Mantis,1
+Iron Man ,Undirected,Wong,1
+Iron Man ,Undirected,Shuri,1
+Iron Man ,Undirected,Proxima Midnight,1
+Iron Man ,Undirected,Eitri,1
+Nick Fury,Undirected,Drax the Destroyer,1
+Nick Fury,Undirected,Black Panther ,1
+Nick Fury,Undirected,Rocket Raccoon,1
+Nick Fury,Undirected,Dr. Strange ,1
+Nick Fury,Undirected,Groot,1
+Nick Fury,Undirected,Nebula,1
+Nick Fury,Undirected,Kraglin ,1
+Nick Fury,Undirected,Spider-Man ,1
+Nick Fury,Undirected,Thaddeus Ross,1
+Nick Fury,Undirected,Ayo,1
+Nick Fury,Undirected,Star Lord ,1
+Nick Fury,Undirected,Gamora,1
+Nick Fury,Undirected,Ned,1
+Nick Fury,Undirected,The Collector,1
+Nick Fury,Undirected,M'Baku,1
+Nick Fury,Undirected,Okoye,1
+Nick Fury,Undirected,Mantis,1
+Nick Fury,Undirected,Wong,1
+Nick Fury,Undirected,Shuri,1
+Nick Fury,Undirected,Proxima Midnight,1
+Nick Fury,Undirected,Eitri,1
+Vision ,Undirected,Drax the Destroyer,1
+Vision ,Undirected,Rocket Raccoon,1
+Vision ,Undirected,Dr. Strange ,1
+Vision ,Undirected,Groot,1
+Vision ,Undirected,Nebula,1
+Vision ,Undirected,Kraglin ,1
+Vision ,Undirected,Star Lord ,1
+Vision ,Undirected,Gamora,1
+Vision ,Undirected,Ned,1
+Vision ,Undirected,The Collector,1
+Vision ,Undirected,M'Baku,1
+Vision ,Undirected,Okoye,1
+Vision ,Undirected,Mantis,1
+Vision ,Undirected,Wong,1
+Vision ,Undirected,Shuri,1
+Vision ,Undirected,Proxima Midnight,1
+Vision ,Undirected,Eitri,1
+Captain America ,Undirected,Drax the Destroyer,1
+Captain America ,Undirected,Dr. Strange ,1
+Captain America ,Undirected,Groot,1
+Captain America ,Undirected,Kraglin ,1
+Captain America ,Undirected,Star Lord ,1
+Captain America ,Undirected,Gamora,1
+Captain America ,Undirected,Ned,1
+Captain America ,Undirected,The Collector,1
+Captain America ,Undirected,Mantis,1
+Captain America ,Undirected,Wong,1
+Captain America ,Undirected,Shuri,1
+Captain America ,Undirected,Proxima Midnight,1
+Captain America ,Undirected,Eitri,1
+Thor,Undirected,The Winter Soldier ,1
+Thor,Undirected,Drax the Destroyer,1
+Thor,Undirected,Black Panther ,1
+Thor,Undirected,Groot,1
+Thor,Undirected,Kraglin ,1
+Thor,Undirected,Thaddeus Ross,1
+Thor,Undirected,Ayo,1
+Thor,Undirected,Star Lord ,1
+Thor,Undirected,Gamora,1
+Thor,Undirected,Ned,1
+Thor,Undirected,The Collector,1
+Thor,Undirected,Mantis,1
+Thor,Undirected,Wong,1
+Thor,Undirected,Shuri,1
+Thor,Undirected,Proxima Midnight,1
+Thor,Undirected,Eitri,1
+Black Widow ,Undirected,Drax the Destroyer,1
+Black Widow ,Undirected,Dr. Strange ,1
+Black Widow ,Undirected,Groot,1
+Black Widow ,Undirected,Kraglin ,1
+Black Widow ,Undirected,Star Lord ,1
+Black Widow ,Undirected,Gamora,1
+Black Widow ,Undirected,Ned,1
+Black Widow ,Undirected,The Collector,1
+Black Widow ,Undirected,Mantis,1
+Black Widow ,Undirected,Wong,1
+Black Widow ,Undirected,Shuri,1
+Black Widow ,Undirected,Proxima Midnight,1
+Black Widow ,Undirected,Eitri,1
+Pepper Potts,Undirected,Heimdall,1
+Pepper Potts,Undirected,The Winter Soldier ,1
+Pepper Potts,Undirected,Falcon ,1
+Pepper Potts,Undirected,Drax the Destroyer,1
+Pepper Potts,Undirected,Black Panther ,1
+Pepper Potts,Undirected,Dr. Strange ,1
+Pepper Potts,Undirected,Groot,1
+Pepper Potts,Undirected,Kraglin ,1
+Pepper Potts,Undirected,Thaddeus Ross,1
+Pepper Potts,Undirected,Ayo,1
+Pepper Potts,Undirected,Scarlet Witch ,1
+Pepper Potts,Undirected,Star Lord ,1
+Pepper Potts,Undirected,Gamora,1
+Pepper Potts,Undirected,The Collector,1
+Pepper Potts,Undirected,Mantis,1
+Pepper Potts,Undirected,Wong,1
+Pepper Potts,Undirected,Shuri,1
+Pepper Potts,Undirected,Proxima Midnight,1
+Pepper Potts,Undirected,Eitri,1
+War Machine ,Undirected,Loki,1
+War Machine ,Undirected,Drax the Destroyer,1
+War Machine ,Undirected,Dr. Strange ,1
+War Machine ,Undirected,Groot,1
+War Machine ,Undirected,Kraglin ,1
+War Machine ,Undirected,Star Lord ,1
+War Machine ,Undirected,Gamora,1
+War Machine ,Undirected,Ned,1
+War Machine ,Undirected,The Collector,1
+War Machine ,Undirected,Mantis,1
+War Machine ,Undirected,Wong,1
+War Machine ,Undirected,Shuri,1
+War Machine ,Undirected,Proxima Midnight,1
+War Machine ,Undirected,Eitri,1
+Heimdall,Undirected,The Winter Soldier ,1
+Heimdall,Undirected,Drax the Destroyer,1
+Heimdall,Undirected,Black Panther ,1
+Heimdall,Undirected,Rocket Raccoon,1
+Heimdall,Undirected,Groot,1
+Heimdall,Undirected,Nebula,1
+Heimdall,Undirected,Kraglin ,1
+Heimdall,Undirected,Spider-Man ,1
+Heimdall,Undirected,Thaddeus Ross,1
+Heimdall,Undirected,Ayo,1
+Heimdall,Undirected,Star Lord ,1
+Heimdall,Undirected,Gamora,1
+Heimdall,Undirected,Ned,1
+Heimdall,Undirected,The Collector,1
+Heimdall,Undirected,M'Baku,1
+Heimdall,Undirected,Okoye,1
+Heimdall,Undirected,Mantis,1
+Heimdall,Undirected,Wong,1
+Heimdall,Undirected,Shuri,1
+Heimdall,Undirected,Proxima Midnight,1
+Heimdall,Undirected,Eitri,1
+Loki,Undirected,The Winter Soldier ,1
+Loki,Undirected,Falcon ,1
+Loki,Undirected,Drax the Destroyer,1
+Loki,Undirected,Black Panther ,1
+Loki,Undirected,Thanos,1
+Loki,Undirected,Rocket Raccoon,1
+Loki,Undirected,Groot,1
+Loki,Undirected,Nebula,1
+Loki,Undirected,Kraglin ,1
+Loki,Undirected,Spider-Man ,1
+Loki,Undirected,Thaddeus Ross,1
+Loki,Undirected,Ayo,1
+Loki,Undirected,Scarlet Witch ,1
+Loki,Undirected,Star Lord ,1
+Loki,Undirected,Gamora,1
+Loki,Undirected,Ned,1
+Loki,Undirected,The Collector,1
+Loki,Undirected,M'Baku,1
+Loki,Undirected,Okoye,1
+Loki,Undirected,Mantis,1
+Loki,Undirected,Wong,1
+Loki,Undirected,Shuri,1
+Loki,Undirected,Proxima Midnight,1
+Loki,Undirected,Eitri,1
+The Hulk ,Undirected,The Winter Soldier ,1
+The Hulk ,Undirected,Drax the Destroyer,1
+The Hulk ,Undirected,Black Panther ,1
+The Hulk ,Undirected,Groot,1
+The Hulk ,Undirected,Kraglin ,1
+The Hulk ,Undirected,Ayo,1
+The Hulk ,Undirected,Star Lord ,1
+The Hulk ,Undirected,Gamora,1
+The Hulk ,Undirected,Ned,1
+The Hulk ,Undirected,The Collector,1
+The Hulk ,Undirected,Mantis,1
+The Hulk ,Undirected,Wong,1
+The Hulk ,Undirected,Shuri,1
+The Hulk ,Undirected,Proxima Midnight,1
+The Hulk ,Undirected,Eitri,1
+The Winter Soldier ,Undirected,Drax the Destroyer,1
+The Winter Soldier ,Undirected,Thanos,1
+The Winter Soldier ,Undirected,Rocket Raccoon,1
+The Winter Soldier ,Undirected,Dr. Strange ,1
+The Winter Soldier ,Undirected,Groot,1
+The Winter Soldier ,Undirected,Nebula,1
+The Winter Soldier ,Undirected,Kraglin ,1
+The Winter Soldier ,Undirected,Star Lord ,1
+The Winter Soldier ,Undirected,Gamora,1
+The Winter Soldier ,Undirected,Ned,1
+The Winter Soldier ,Undirected,The Collector,1
+The Winter Soldier ,Undirected,M'Baku,1
+The Winter Soldier ,Undirected,Okoye,1
+The Winter Soldier ,Undirected,Mantis,1
+The Winter Soldier ,Undirected,Wong,1
+The Winter Soldier ,Undirected,Shuri,1
+The Winter Soldier ,Undirected,Proxima Midnight,1
+The Winter Soldier ,Undirected,Eitri,1
+Falcon ,Undirected,Drax the Destroyer,1
+Falcon ,Undirected,Rocket Raccoon,1
+Falcon ,Undirected,Dr. Strange ,1
+Falcon ,Undirected,Groot,1
+Falcon ,Undirected,Nebula,1
+Falcon ,Undirected,Kraglin ,1
+Falcon ,Undirected,Star Lord ,1
+Falcon ,Undirected,Gamora,1
+Falcon ,Undirected,Ned,1
+Falcon ,Undirected,The Collector,1
+Falcon ,Undirected,M'Baku,1
+Falcon ,Undirected,Okoye,1
+Falcon ,Undirected,Mantis,1
+Falcon ,Undirected,Wong,1
+Falcon ,Undirected,Shuri,1
+Falcon ,Undirected,Proxima Midnight,1
+Falcon ,Undirected,Eitri,1
+Agent Maria Hill,Undirected,Drax the Destroyer,1
+Agent Maria Hill,Undirected,Black Panther ,1
+Agent Maria Hill,Undirected,Rocket Raccoon,1
+Agent Maria Hill,Undirected,Dr. Strange ,1
+Agent Maria Hill,Undirected,Groot,1
+Agent Maria Hill,Undirected,Nebula,1
+Agent Maria Hill,Undirected,Kraglin ,1
+Agent Maria Hill,Undirected,Spider-Man ,1
+Agent Maria Hill,Undirected,Thaddeus Ross,1
+Agent Maria Hill,Undirected,Ayo,1
+Agent Maria Hill,Undirected,Star Lord ,1
+Agent Maria Hill,Undirected,Gamora,1
+Agent Maria Hill,Undirected,Ned,1
+Agent Maria Hill,Undirected,The Collector,1
+Agent Maria Hill,Undirected,M'Baku,1
+Agent Maria Hill,Undirected,Okoye,1
+Agent Maria Hill,Undirected,Mantis,1
+Agent Maria Hill,Undirected,Wong,1
+Agent Maria Hill,Undirected,Shuri,1
+Agent Maria Hill,Undirected,Proxima Midnight,1
+Agent Maria Hill,Undirected,Eitri,1
+Drax the Destroyer,Undirected,Black Panther ,1
+Drax the Destroyer,Undirected,Dr. Strange ,1
+Drax the Destroyer,Undirected,Spider-Man ,1
+Drax the Destroyer,Undirected,Thaddeus Ross,1
+Drax the Destroyer,Undirected,Ayo,1
+Drax the Destroyer,Undirected,Scarlet Witch ,1
+Drax the Destroyer,Undirected,Ned,1
+Drax the Destroyer,Undirected,M'Baku,1
+Drax the Destroyer,Undirected,Okoye,1
+Drax the Destroyer,Undirected,Wong,1
+Drax the Destroyer,Undirected,Shuri,1
+Drax the Destroyer,Undirected,Proxima Midnight,1
+Drax the Destroyer,Undirected,Eitri,1
+Black Panther ,Undirected,Thanos,1
+Black Panther ,Undirected,Rocket Raccoon,1
+Black Panther ,Undirected,Dr. Strange ,1
+Black Panther ,Undirected,Groot,1
+Black Panther ,Undirected,Nebula,1
+Black Panther ,Undirected,Kraglin ,1
+Black Panther ,Undirected,Star Lord ,1
+Black Panther ,Undirected,Gamora,1
+Black Panther ,Undirected,Ned,1
+Black Panther ,Undirected,The Collector,1
+Black Panther ,Undirected,Mantis,1
+Black Panther ,Undirected,Wong,1
+Black Panther ,Undirected,Proxima Midnight,1
+Black Panther ,Undirected,Eitri,1
+Thanos,Undirected,Dr. Strange ,1
+Thanos,Undirected,Thaddeus Ross,1
+Thanos,Undirected,Ayo,1
+Thanos,Undirected,Ned,1
+Thanos,Undirected,Mantis,1
+Thanos,Undirected,Wong,1
+Thanos,Undirected,Shuri,1
+Thanos,Undirected,Proxima Midnight,1
+Thanos,Undirected,Eitri,1
+Rocket Raccoon,Undirected,Dr. Strange ,1
+Rocket Raccoon,Undirected,Thaddeus Ross,1
+Rocket Raccoon,Undirected,Ayo,1
+Rocket Raccoon,Undirected,Scarlet Witch ,1
+Rocket Raccoon,Undirected,Ned,1
+Rocket Raccoon,Undirected,Wong,1
+Rocket Raccoon,Undirected,Shuri,1
+Rocket Raccoon,Undirected,Proxima Midnight,1
+Rocket Raccoon,Undirected,Eitri,1
+Dr. Strange ,Undirected,Groot,1
+Dr. Strange ,Undirected,Nebula,1
+Dr. Strange ,Undirected,Kraglin ,1
+Dr. Strange ,Undirected,Spider-Man ,1
+Dr. Strange ,Undirected,Thaddeus Ross,1
+Dr. Strange ,Undirected,Ayo,1
+Dr. Strange ,Undirected,Scarlet Witch ,1
+Dr. Strange ,Undirected,Star Lord ,1
+Dr. Strange ,Undirected,Gamora,1
+Dr. Strange ,Undirected,Ned,1
+Dr. Strange ,Undirected,The Collector,1
+Dr. Strange ,Undirected,M'Baku,1
+Dr. Strange ,Undirected,Okoye,1
+Dr. Strange ,Undirected,Mantis,1
+Dr. Strange ,Undirected,Wong,1
+Dr. Strange ,Undirected,Shuri,1
+Dr. Strange ,Undirected,Proxima Midnight,1
+Dr. Strange ,Undirected,Eitri,1
+Groot,Undirected,Spider-Man ,1
+Groot,Undirected,Thaddeus Ross,1
+Groot,Undirected,Ayo,1
+Groot,Undirected,Scarlet Witch ,1
+Groot,Undirected,Ned,1
+Groot,Undirected,M'Baku,1
+Groot,Undirected,Okoye,1
+Groot,Undirected,Wong,1
+Groot,Undirected,Shuri,1
+Groot,Undirected,Proxima Midnight,1
+Groot,Undirected,Eitri,1
+Nebula,Undirected,Thaddeus Ross,1
+Nebula,Undirected,Ayo,1
+Nebula,Undirected,Scarlet Witch ,1
+Nebula,Undirected,Ned,1
+Nebula,Undirected,Wong,1
+Nebula,Undirected,Shuri,1
+Nebula,Undirected,Proxima Midnight,1
+Nebula,Undirected,Eitri,1
+Kraglin ,Undirected,Spider-Man ,1
+Kraglin ,Undirected,Thaddeus Ross,1
+Kraglin ,Undirected,Ayo,1
+Kraglin ,Undirected,Scarlet Witch ,1
+Kraglin ,Undirected,Ned,1
+Kraglin ,Undirected,M'Baku,1
+Kraglin ,Undirected,Okoye,1
+Kraglin ,Undirected,Wong,1
+Kraglin ,Undirected,Shuri,1
+Kraglin ,Undirected,Proxima Midnight,1
+Kraglin ,Undirected,Eitri,1
+Spider-Man ,Undirected,Star Lord ,1
+Spider-Man ,Undirected,Gamora,1
+Spider-Man ,Undirected,The Collector,1
+Spider-Man ,Undirected,Mantis,1
+Spider-Man ,Undirected,Wong,1
+Spider-Man ,Undirected,Shuri,1
+Spider-Man ,Undirected,Proxima Midnight,1
+Spider-Man ,Undirected,Eitri,1
+Thaddeus Ross,Undirected,Star Lord ,1
+Thaddeus Ross,Undirected,Gamora,1
+Thaddeus Ross,Undirected,Ned,1
+Thaddeus Ross,Undirected,The Collector,1
+Thaddeus Ross,Undirected,M'Baku,1
+Thaddeus Ross,Undirected,Okoye,1
+Thaddeus Ross,Undirected,Mantis,1
+Thaddeus Ross,Undirected,Wong,1
+Thaddeus Ross,Undirected,Shuri,1
+Thaddeus Ross,Undirected,Proxima Midnight,1
+Thaddeus Ross,Undirected,Eitri,1
+Ayo,Undirected,Star Lord ,1
+Ayo,Undirected,Gamora,1
+Ayo,Undirected,Ned,1
+Ayo,Undirected,The Collector,1
+Ayo,Undirected,Mantis,1
+Ayo,Undirected,Wong,1
+Ayo,Undirected,Proxima Midnight,1
+Ayo,Undirected,Eitri,1
+Scarlet Witch ,Undirected,Star Lord ,1
+Scarlet Witch ,Undirected,Gamora,1
+Scarlet Witch ,Undirected,Ned,1
+Scarlet Witch ,Undirected,The Collector,1
+Scarlet Witch ,Undirected,M'Baku,1
+Scarlet Witch ,Undirected,Okoye,1
+Scarlet Witch ,Undirected,Mantis,1
+Scarlet Witch ,Undirected,Wong,1
+Scarlet Witch ,Undirected,Shuri,1
+Scarlet Witch ,Undirected,Proxima Midnight,1
+Scarlet Witch ,Undirected,Eitri,1
+Star Lord ,Undirected,Ned,1
+Star Lord ,Undirected,M'Baku,1
+Star Lord ,Undirected,Okoye,1
+Star Lord ,Undirected,Wong,1
+Star Lord ,Undirected,Shuri,1
+Star Lord ,Undirected,Proxima Midnight,1
+Star Lord ,Undirected,Eitri,1
+Gamora,Undirected,Ned,1
+Gamora,Undirected,M'Baku,1
+Gamora,Undirected,Okoye,1
+Gamora,Undirected,Wong,1
+Gamora,Undirected,Shuri,1
+Gamora,Undirected,Proxima Midnight,1
+Gamora,Undirected,Eitri,1
+Ned,Undirected,The Collector,1
+Ned,Undirected,M'Baku,1
+Ned,Undirected,Okoye,1
+Ned,Undirected,Mantis,1
+Ned,Undirected,Wong,1
+Ned,Undirected,Shuri,1
+Ned,Undirected,Proxima Midnight,1
+Ned,Undirected,Eitri,1
+The Collector,Undirected,M'Baku,1
+The Collector,Undirected,Okoye,1
+The Collector,Undirected,Mantis,1
+The Collector,Undirected,Wong,1
+The Collector,Undirected,Shuri,1
+The Collector,Undirected,Proxima Midnight,1
+The Collector,Undirected,Eitri,1
+M'Baku,Undirected,Mantis,1
+M'Baku,Undirected,Wong,1
+M'Baku,Undirected,Proxima Midnight,1
+M'Baku,Undirected,Eitri,1
+Okoye,Undirected,Mantis,1
+Okoye,Undirected,Wong,1
+Okoye,Undirected,Proxima Midnight,1
+Okoye,Undirected,Eitri,1
+Mantis,Undirected,Wong,1
+Mantis,Undirected,Shuri,1
+Mantis,Undirected,Proxima Midnight,1
+Mantis,Undirected,Eitri,1
+Wong,Undirected,Shuri,1
+Wong,Undirected,Proxima Midnight,1
+Wong,Undirected,Eitri,1
+Shuri,Undirected,Proxima Midnight,1
+Shuri,Undirected,Eitri,1
+Proxima Midnight,Undirected,Eitri,1
+Thor,Undirected,Algrim/Kurse,1
+Thor,Undirected,Malekith,1
+Heimdall,Undirected,Algrim/Kurse,1
+Heimdall,Undirected,Malekith,1
+Loki,Undirected,Algrim/Kurse,1
+Loki,Undirected,Malekith,1
+Dr. Erik Selvig,Undirected,Fandral,1
+Dr. Erik Selvig,Undirected,Algrim/Kurse,1
+Dr. Erik Selvig,Undirected,Malekith,1
+Hogun,Undirected,Algrim/Kurse,1
+Hogun,Undirected,Malekith,1
+Odin,Undirected,Algrim/Kurse,1
+Odin,Undirected,Malekith,1
+Volstagg,Undirected,Algrim/Kurse,1
+Volstagg,Undirected,Malekith,1
+Sif,Undirected,Fandral,1
+Sif,Undirected,Algrim/Kurse,1
+Sif,Undirected,Malekith,1
+Darcy Lewis,Undirected,Fandral,1
+Darcy Lewis,Undirected,Algrim/Kurse,1
+Darcy Lewis,Undirected,Malekith,1
+Fandral,Undirected,Jane Foster,1
+Fandral,Undirected,Frigga,1
+Fandral,Undirected,Algrim/Kurse,1
+Fandral,Undirected,Malekith,1
+Jane Foster,Undirected,Algrim/Kurse,1
+Jane Foster,Undirected,Malekith,1
+Frigga,Undirected,Algrim/Kurse,1
+Frigga,Undirected,Malekith,1
+Algrim/Kurse,Undirected,Malekith,1
+Nick Fury,Undirected,Hogun,1
+Nick Fury,Undirected,Odin,1
+Nick Fury,Undirected,Volstagg,1
+Nick Fury,Undirected,Sif,1
+Nick Fury,Undirected,Darcy Lewis,1
+Nick Fury,Undirected,Jane Foster,1
+Nick Fury,Undirected,Frigga,1
+Nick Fury,Undirected,King Laufey,1
+Thor,Undirected,King Laufey,1
+Heimdall,Undirected,King Laufey,1
+Loki,Undirected,King Laufey,1
+Dr. Erik Selvig,Undirected,King Laufey,1
+Hawkeye ,Undirected,Hogun,1
+Hawkeye ,Undirected,Odin,1
+Hawkeye ,Undirected,Volstagg,1
+Hawkeye ,Undirected,Sif,1
+Hawkeye ,Undirected,Darcy Lewis,1
+Hawkeye ,Undirected,Jane Foster,1
+Hawkeye ,Undirected,Frigga,1
+Hawkeye ,Undirected,King Laufey,1
+Hogun,Undirected,King Laufey,1
+Odin,Undirected,King Laufey,1
+Volstagg,Undirected,King Laufey,1
+Sif,Undirected,King Laufey,1
+Darcy Lewis,Undirected,King Laufey,1
+Jane Foster,Undirected,King Laufey,1
+Frigga,Undirected,King Laufey,1
+Nick Fury,Undirected,Colonel Chester Phillips,1
+Captain America ,Undirected,Colonel Chester Phillips,1
+The Winter Soldier ,Undirected,Colonel Chester Phillips,1
+Agent Peggy Carter,Undirected,Colonel Chester Phillips,1
+Arnim Zola,Undirected,Colonel Chester Phillips,1
+Iron Man ,Undirected,Obadiah Stane,1
+Iron Man ,Undirected,"James ""Rhodey"" Rhodes",1
+Nick Fury,Undirected,Obadiah Stane,1
+Nick Fury,Undirected,"James ""Rhodey"" Rhodes",1
+Vision ,Undirected,Obadiah Stane,1
+Vision ,Undirected,"James ""Rhodey"" Rhodes",1
+Pepper Potts,Undirected,Obadiah Stane,1
+Pepper Potts,Undirected,"James ""Rhodey"" Rhodes",1
+Happy Hogan,Undirected,Obadiah Stane,1
+Happy Hogan,Undirected,"James ""Rhodey"" Rhodes",1
+Christine Everhart,Undirected,Obadiah Stane,1
+Christine Everhart,Undirected,"James ""Rhodey"" Rhodes",1
+Obadiah Stane,Undirected,"James ""Rhodey"" Rhodes",1
+Scott Lang,Undirected,Bill Foster,1
+Scott Lang,Undirected,Sonny Burch,1
+Scott Lang,Undirected,Ghost ,1
+Paxton,Undirected,Bill Foster,1
+Paxton,Undirected,Sonny Burch,1
+Paxton,Undirected,Ghost ,1
+Kurt,Undirected,Bill Foster,1
+Kurt,Undirected,Sonny Burch,1
+Kurt,Undirected,Ghost ,1
+Hank Pym,Undirected,Bill Foster,1
+Hank Pym,Undirected,Sonny Burch,1
+Hank Pym,Undirected,Ghost ,1
+Maggie,Undirected,Bill Foster,1
+Maggie,Undirected,Sonny Burch,1
+Maggie,Undirected,Ghost ,1
+The Wasp ,Undirected,Bill Foster,1
+The Wasp ,Undirected,Sonny Burch,1
+The Wasp ,Undirected,Ghost ,1
+Luis,Undirected,Bill Foster,1
+Luis,Undirected,Sonny Burch,1
+Luis,Undirected,Ghost ,1
+Cassie Lang,Undirected,Bill Foster,1
+Cassie Lang,Undirected,Sonny Burch,1
+Cassie Lang,Undirected,Ghost ,1
+Dave,Undirected,Bill Foster,1
+Dave,Undirected,Sonny Burch,1
+Dave,Undirected,Ghost ,1
+Bill Foster,Undirected,Sonny Burch,1
+Bill Foster,Undirected,Ghost ,1
+Sonny Burch,Undirected,Ghost ,1
+Iron Man ,Undirected,Agent Peggy Carter,1
+Iron Man ,Undirected,Ulysses Klaue,1
+Iron Man ,Undirected,Laura Barton,1
+Nick Fury,Undirected,Ulysses Klaue,1
+Nick Fury,Undirected,Laura Barton,1
+Vision ,Undirected,Agent Peggy Carter,1
+Vision ,Undirected,Ulysses Klaue,1
+Vision ,Undirected,Laura Barton,1
+Captain America ,Undirected,Ulysses Klaue,1
+Captain America ,Undirected,Laura Barton,1
+Thor,Undirected,Agent Peggy Carter,1
+Thor,Undirected,Ulysses Klaue,1
+Thor,Undirected,Laura Barton,1
+Black Widow ,Undirected,Ulysses Klaue,1
+Black Widow ,Undirected,Laura Barton,1
+War Machine ,Undirected,Agent Peggy Carter,1
+War Machine ,Undirected,Dr. Erik Selvig,1
+War Machine ,Undirected,Ulysses Klaue,1
+War Machine ,Undirected,Laura Barton,1
+Heimdall,Undirected,Agent Peggy Carter,1
+Heimdall,Undirected,Ulysses Klaue,1
+Heimdall,Undirected,Laura Barton,1
+The Hulk ,Undirected,Agent Peggy Carter,1
+The Hulk ,Undirected,Ulysses Klaue,1
+The Hulk ,Undirected,Laura Barton,1
+Agent Peggy Carter,Undirected,Dr. Erik Selvig,1
+Agent Peggy Carter,Undirected,Hawkeye ,1
+Agent Peggy Carter,Undirected,Thanos,1
+Agent Peggy Carter,Undirected,Scarlet Witch ,1
+Agent Peggy Carter,Undirected,Ulysses Klaue,1
+Agent Peggy Carter,Undirected,Laura Barton,1
+Falcon ,Undirected,Dr. Erik Selvig,1
+Falcon ,Undirected,Ulysses Klaue,1
+Falcon ,Undirected,Laura Barton,1
+Dr. Erik Selvig,Undirected,Thanos,1
+Dr. Erik Selvig,Undirected,Scarlet Witch ,1
+Dr. Erik Selvig,Undirected,Ulysses Klaue,1
+Dr. Erik Selvig,Undirected,Laura Barton,1
+Hawkeye ,Undirected,Ulysses Klaue,1
+Hawkeye ,Undirected,Laura Barton,1
+Agent Maria Hill,Undirected,Ulysses Klaue,1
+Agent Maria Hill,Undirected,Laura Barton,1
+Thanos,Undirected,Ulysses Klaue,1
+Thanos,Undirected,Laura Barton,1
+Scarlet Witch ,Undirected,Ulysses Klaue,1
+Scarlet Witch ,Undirected,Laura Barton,1
+Ulysses Klaue,Undirected,Laura Barton,1
+Nick Fury,Undirected,Crossbones ,1
+Nick Fury,Undirected,Agent 13 ,1
+Captain America ,Undirected,Senator Stern,1
+Black Widow ,Undirected,Arnim Zola,1
+The Winter Soldier ,Undirected,Senator Stern,1
+Agent Peggy Carter,Undirected,Crossbones ,1
+Agent Peggy Carter,Undirected,Senator Stern,1
+Agent Peggy Carter,Undirected,Agent 13 ,1
+Falcon ,Undirected,Arnim Zola,1
+Falcon ,Undirected,Senator Stern,1
+Agent Maria Hill,Undirected,Crossbones ,1
+Agent Maria Hill,Undirected,Arnim Zola,1
+Agent Maria Hill,Undirected,Senator Stern,1
+Agent Maria Hill,Undirected,Agent 13 ,1
+Crossbones ,Undirected,Arnim Zola,1
+Crossbones ,Undirected,Senator Stern,1
+Arnim Zola,Undirected,Senator Stern,1
+Arnim Zola,Undirected,Agent 13 ,1
+Senator Stern,Undirected,Agent 13 ,1
