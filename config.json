@@ -29,12 +29,12 @@
   "sigma": {
     "drawingProperties": {
       "defaultEdgeType": "curve",
-      "defaultHoverLabelBGColor": "#ff0000",
+      "defaultHoverLabelBGColor": "#fff",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#fff",
       "labelThreshold": 15,
-      "defaultLabelHoverColor": "#fff",
+      "defaultLabelHoverColor": "#242124",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
       "defaultLabelSize": 18
